@@ -29,7 +29,7 @@ body {
 }
 
 /* Headings */
-h1 {
+.resume-info h1 {
     color: #01245a; 
     text-align: center;
     font-size: 3rem; 
@@ -37,7 +37,7 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h2 {
+.resume-info h2 {
     color: #01245a; 
     margin-bottom: 10px;
     margin-top: 10px;
@@ -152,11 +152,11 @@ textarea[name="experienceDescription"] {
         padding: 10px;
     }
 
-    h1 {
+    .resume-info h1 {
         font-size: 1.5rem; 
     }
 
-    h2 {
+    .resume-info h2 {
         font-size: 1.2rem; 
     }
 
@@ -171,11 +171,11 @@ textarea[name="experienceDescription"] {
         padding: 5px; 
     }
 
-    h1 {
+    .resume-info h1 {
         font-size: 1.5rem; 
     }
 
-    h2 {
+    .resume-info h2 {
         font-size: 1rem; 
     }
 
@@ -254,9 +254,9 @@ textarea[name="experienceDescription"] {
 }
 
 /* Heading and title styling */
-h1 {
+.right-section h1 {
     margin-top: 20px;
-    font-size: 40px;
+    font-size: 35px;
     color: #0d3c61;
     font-weight: bold;
 }
@@ -268,7 +268,7 @@ h1 {
     text-align: center;
 }
 
-h2, h3 {
+.right-section h2, .contact h3 {
     font-size: 20px;
     color: #0d3c61;
     margin-top: 20px;
@@ -302,7 +302,7 @@ h2, h3 {
     }
     
     .right-section h1 {
-        font-size: 29px;
+        font-size: 20px;
     }
 
     .contact h3, .skills h3 {
@@ -316,7 +316,7 @@ h2, h3 {
     }
 
     .right-section h2 {
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .right-section li , .right-section p{
