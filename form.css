@@ -301,7 +301,7 @@ h2, h3 {
         margin: 0;
     }
     
-    h1 {
+    .right-section h1 {
         font-size: 29px;
     }
 
@@ -348,7 +348,7 @@ h2, h3 {
         margin: 0;
     }
     
-     h1 {
+    .right-section h1 {
         font-size: 19px;
     }
 
@@ -363,7 +363,7 @@ h2, h3 {
     }
 
     .right-section h2 {
-        font-size: 14px;
+        font-size: 13px;
     }
 
     .right-section li , .right-section p{
